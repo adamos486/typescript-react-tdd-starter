@@ -14,7 +14,7 @@ const Container = styled.div`
 const App: React.FC = (props: Props) => {
   return (
     <Container>
-      Hello, there!
+      <p>Hello  there!</p>
       <img src="https://i.imgur.com/NA9Cn1Q.jpg" />
     </Container>
   );
